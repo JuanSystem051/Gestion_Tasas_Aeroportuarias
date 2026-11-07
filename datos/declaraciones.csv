@@ -1,0 +1,12 @@
+aerolinea,nombre_aerolinea,codigo_vuelo,fecha_vuelo,fecha_presentacion,pasajeros_declarados
+ALF,Aerolínea Alfa,ALF101,2026-03-10,2026-03-10,100
+ALF,Aerolínea Alfa,ALF103,2026-03-11,2026-03-12,90
+ALF,Aerolínea Alfa,ALF104,2026-03-12,2026-03-12,150
+BRV,Aerolínea Bravo,BRV201,2026-03-10,2026-03-11,90
+BRV,Aerolínea Bravo,BRV202,2026-03-10,2026-03-10,75
+BRV,Aerolínea Bravo,BRV203,2026-03-11,2026-03-13,110
+BRV,Aerolínea Bravo,BRV204,2026-03-12,2026-03-12,60
+BRV,Aerolínea Bravo,BRV299,2026-03-11,2026-03-11,40
+CHR,Aerolínea Charlie,CHR301,2026-03-10,2026-03-10,80
+CHR,Aerolínea Charlie,CHR302,2026-03-11,2026-03-12,128
+CHR,Aerolínea Charlie,CHR304,2026-03-12,2026-03-20,100
